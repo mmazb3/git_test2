@@ -1,2 +1,6 @@
 adding some text
+<<<<<<< HEAD
 second line of text
+=======
+second line in another_feature
+>>>>>>> another_feature
